@@ -6,7 +6,7 @@ Systematically removes duplicate files from a directory
 SYNOPSIS
 --------
 
-Usage: dupe_nuker <directory>
+Usage: dupe_nuker.pl &lt;directory&gt;
 
 Description
 -----------
