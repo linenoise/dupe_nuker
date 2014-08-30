@@ -192,10 +192,10 @@ unlink($data_file);
 
 =head1 AUTHORS
 
-This script written by Dann Stayskal <dann@stayskal.com>.
+This script written by Danne Stayskal <danne@stayskal.com>.
 
 =head1 COPYRIGHT
 
-This script is Copyright (c) 2010 by Dann Stayskal and available under the same license as perl itself.
+This script is Copyright (c) 2010 by Danne Stayskal and available under the same license as perl itself.
 
 =cut
